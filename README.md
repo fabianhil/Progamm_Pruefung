@@ -1,1 +1,2 @@
-# Progamm_f-r_Pr-fung
+# Ein kleiner einfacher Taschenrechner mit Copperspice GUI
+# Zum ausführen ./deploy/taschenrechner
