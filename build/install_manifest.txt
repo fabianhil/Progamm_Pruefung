@@ -1,0 +1,5 @@
+/home/fabian/Progamm_Pruefung/deploy/./taschenrechner
+/home/fabian/Progamm_Pruefung/deploy/./libCsCore1.7.so
+/home/fabian/Progamm_Pruefung/deploy/./libCsGui1.7.so
+/home/fabian/Progamm_Pruefung/deploy/./platforms/CsGuiXcb1.7.so
+/home/fabian/Progamm_Pruefung/deploy/./libCsXcbSupport1.7.so
